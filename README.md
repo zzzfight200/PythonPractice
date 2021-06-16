@@ -31,3 +31,7 @@ hangman游戏，猜一个单词中的字母，才对会显示出来，有7次机
 ## story
 随机选择词语写一个小故事
 **练习重点：**random模块，capitalize函数
+
+## cookie
+用不同的cookie访问豆瓣，返回的页面不同。其中cookie是从浏览器F12中复制的。
+**练习重点：**requests模块 os模块
